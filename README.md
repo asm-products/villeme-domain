@@ -1,11 +1,35 @@
-# Villeme
+# Domain of Villeme
 
-## Events, activities and services near your home.
+Here we post and build together all business logic about Villeme. \O/
 
-This is a product being built by the Assembly community. You can help push this idea forward by visiting [https://assembly.com/villeme](https://assembly.com/villeme).
+### Marketing
+##### Business Model Canvas
+* Customer Segments
 
-### How Assembly Works
+* Customer Relationships
 
-Assembly products are like open-source and made with contributions from the community. Assembly handles the boring stuff like hosting, support, financing, legal, etc. Once the product launches we collect the revenue and split the profits amongst the contributors.
+* Channels
 
-Visit [https://assembly.com](https://assembly.com) to learn more.
+* Value Proposition
+
+* Key Partners
+
+* Key Activities
+
+* Customer Resources
+
+* Revenue Structure
+
+* Cost Structure
+
+
+### Design
+
+### Devlopment
+##### Stack
+##### Kanban
+##### Architecture
+
+
+
+
