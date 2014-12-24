@@ -10,8 +10,7 @@ Here we post and build together all business logic about Villeme. \O/
 
 * Channels
 
-* Value Proposition
-
+* [Value Proposition](marketing/business_model_canvas/value_proposition_townee.odt)
 * Key Partners
 
 * Key Activities
